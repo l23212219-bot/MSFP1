@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Sergio Andree Navarro Rodriguez \[23212219]; l23212219@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
