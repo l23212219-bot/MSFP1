@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de el estudiante
+## Información del estudiante
 
 Sergio Andree Navarro Rodriguez \[23212219]; l23212219@tijuana.tecnm.mx
 
